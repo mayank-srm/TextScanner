@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "290928534983",
+    "firebase_url": "https://textscanner-8182d.firebaseio.com",
+    "project_id": "textscanner-8182d",
+    "storage_bucket": "textscanner-8182d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290928534983:android:013e81fe7c251406",
+        "android_client_info": {
+          "package_name": "com.mayank.textscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290928534983-b0tfsrn18ljjhe05riol9jfikkf37vvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mayank.textscanner",
+            "certificate_hash": "854b040db3bd8b65b6c92770ae43d553734ab61f"
+          }
+        },
+        {
+          "client_id": "290928534983-uphi2eilc3nvf81o5rj2k5buddbeqrlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWwXYhUNoUhtXr_Rp5nlKEY3z4j8bwf0M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290928534983-uphi2eilc3nvf81o5rj2k5buddbeqrlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
